@@ -6,6 +6,21 @@ Nombres y conceptos utilizados como sinónimos en muchos lugares:
 - "Registro Electrónico de Cesión de Créditos"
 
 
+## General
+
+
+### Instructivo Técnico
+
+"Registro Público Electrónico de Transferencia de Crédito" - "Instructivo Técnico",
+[2013-02-11](2013-02-11-instructivo-tecnico.pdf)
+
+- Fuente: sitio web SII / RTC / Documentación Técnica /
+  [Instructivo Técnico](http://www.sii.cl/factura_electronica/ins_tecnico.pdf)
+- Nombre original: `ins_tecnico.pdf`
+- MD5: `3de679a59653844fbf5d0d915619183c`
+- SHA256: `1dbf93fc617482bfcf7ccecf04594f31af98b040ddb4f2fd4a928f7cc2fb4c7e`
+
+
 ## Tech
 
 
