@@ -38,3 +38,18 @@ Consulta Estado Envío de AEC al Registro; Consulta de Cesiones",
 - Nombre original: `RTCDocum.pdf`
 - MD5: `c8b971e86ba7dba5616f8b7f5936933c`
 - SHA256: `d4d30f7e6e844aa7a4ce128e056322de1baef061d4a10ea0a5ddad5b2ad02fb6`
+
+
+### Envío automático de Archivos Electrónicos de Cesión (AEC)
+
+"Manual de Desarrollador Externo" - "Envío Automático de Archivos Electrónicos de Cesión
+(AEC)",
+[v1.0 (2007-01-31)](RPETCEnvio/2007-01-31-envio-automatico-de-archivos-electronicos-de-cesion-v1.0.pdf)
+
+- Fuente: sitio web SII / RTC / Documentación Técnica / Automatización de Procesos /
+  [Envío Automático de Archivos Electrónicos de Cesión](https://palena.sii.cl/cgi_rtc/RTC/RTCDocum.cgi?2)
+  (**sólo disponible con autenticación con certificado digital**).
+- Nombre original: `OIFE2006_RPETC_UPLOAD_MDE.pdf`
+- MD5: `5135fc43d3288da8155d97c61203eec1`
+- SHA256: `ae2a0fcc1e2d50ebd59af7347481512518978283de598ad8c021e7a0da107335`
+- Fecha y hora descarga: 2021-01-06 16:49 -03:00
