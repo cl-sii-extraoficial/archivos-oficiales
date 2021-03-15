@@ -34,6 +34,12 @@ Unfortunately the files available on SII's website are outdated with respect to 
 
 Schema files will be updated as necessary, indicating the source in the corresponding commit.
 
+- 2021-03-12
+  - Files:
+    - `DTE_v10.xsd`
+    - `SiiTypes_v10.xsd`
+  - Source: [schema_cesion_201912.zip](https://www.sii.cl/factura_electronica/schema_cesion_201912.zip)
+  - MD5: `33639f61ef3aa0ec785557b1c8778cea`
 
 ## Contents
 
@@ -41,8 +47,8 @@ Schema files will be updated as necessary, indicating the source in the correspo
 ### Detail
 
 - `DTE_v10.xsd`: "XSD principal y que incluye a los 3" otros XSD.
-  - MD5: `e72ee34d798224f31a5127edda712bbf`.
-  - SHA256: `5418f69b9ee64238b337e4d91fd255c567bc86353b15bb192812459b304067e8`
+  - MD5: `ab4aae9dd23588f260d37a846e70439a`.
+  - SHA256: `1ba39d9bdaf96955cf6f3c36a7ce004cc6df18c4dd759705af44dc56f94b2d28`
   - XML target namespace: `http://www.sii.cl/SiiDte`.
   - XML included/imported schemas: `SiiTypes_v10.xsd`, `xmldsignature_v10.xsd`.
   - XML elements:
@@ -60,8 +66,8 @@ Schema files will be updated as necessary, indicating the source in the correspo
   - XML data types: none.
 
 - `SiiTypes_v10.xsd`: "descripción de tipos de datos"
-  - MD5: `b6a63aa427e3d528e46a7d94ccbdcb32`.
-  - SHA256: `b6ba16b1698cae563b7aabde476f080b5f723769c6c2bb0c49b95e14da29b4dd`
+  - MD5: `5985df947f8b4d4c9daffcf50ca74b3a`.
+  - SHA256: `5002fef1cd9592de1191359f1995592d48d18f2274c5659bf2e47129807f434d`
   - XML target namespace: `http://www.sii.cl/SiiDte`.
   - XML included/imported schemas: none.
   - XML elements: none.
@@ -96,8 +102,11 @@ Schema files will be updated as necessary, indicating the source in the correspo
     - `NombreType`: "Nombre".
     - `FechaType`: "Fecha entre 2000-01-01 y 2050-12-31".
     - `FechaHoraType`: "FechaType + hora entre 00:00 y 23:59;".
+    - `TipoTransCOMPRA`: "Tipo de Transacción para el comprador".
+    - `TipoTransVENTA`: "Tipo de Transacción para el vendedor".
     - `Dec16_2Type`: "Monto con 16 Digitos de Cuerpo y 2 Decimales".
     - `Dec14_4Type`: "Monto con 14 Digitos de Cuerpo y 4 Decimales".
+    - `Dec14_4-0Type`: "Monto con 14 Digitos de Cuerpo y 4 Decimales partiendo de cero".
     - `Dec8_4Type`: "Monto con 8 Digitos de Cuerpo y 4 Decimales".
     - `Dec6_4Type`: "Monto con 6 Digitos de Cuerpo y 4 Decimales".
     - `Dec12_6Type`: "Monto con 12 Digitos de Cuerpo y 6 Decimales".
