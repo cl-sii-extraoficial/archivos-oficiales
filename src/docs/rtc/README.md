@@ -23,6 +23,18 @@ Nombres y conceptos utilizados como sinónimos en muchos lugares:
 
 ## Tech
 
+### Formato archivo electrónico de cesión (AEC)
+
+"Formatos de archivos electrónicos" - "Archivo Electrónico de Cesión",
+[v1.1 (2013-02-11)](2013-02-11-formato-archivo-electronico-cesion.pdf)
+
+- Fuente: sitio web SII / RTC / Documentación Técnica / Formatos de archivos electrónicos /
+  [Archivo Electrónico de Cesión (PDF)](https://www.sii.cl/factura_electronica/cesion.pdf).
+- Nombre original: `cesion.pdf`
+- MD5: `96fe982a5d763f43b5369db19f89b657`
+- SHA256: `2ada2f2600b77a172ebb697336a7e2d9a621d00aee1a9ed4fdad2c083aa930e6`
+- Fecha y hora descarga: 2021-03-12 13:40 -03:00
+
 
 ### Web service "Consulta de Estado - RPETC"
 
