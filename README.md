@@ -10,3 +10,7 @@ las rutas y/o versiones de archivos.
 - [Documento Tributario Electrónico (DTE)](src/docs/dte/README.md)
 - [Registro de Compras y Ventas (RCV)](src/docs/rcv/README.md)
 - [Registro de Transferencia de Crédito (RTC)](src/docs/rtc/README.md)
+
+### XML schemas
+
+- [Documento Tributario Electrónico (DTE)](src/code/dte/README.md)
