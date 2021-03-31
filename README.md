@@ -14,3 +14,4 @@ las rutas y/o versiones de archivos.
 ### XML schemas
 
 - [Documento Tributario Electrónico (DTE)](src/code/dte/README.md)
+- [Registro de Transferencia de Crédito (RTC)](src/code/rtc/README.md)
